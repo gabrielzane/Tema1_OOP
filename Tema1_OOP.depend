@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1615639682 source:c:\users\user\desktop\facultate\semestrul 2\oop\gabis\tema1_oop\src\utilizator.cpp
+	"Utilizator.h"
+
+1615641446 c:\users\user\desktop\facultate\semestrul 2\oop\gabis\tema1_oop\include\utilizator.h
+	<string>
+	<list>
+	<Carte.h>
+
+1615641170 source:c:\users\user\desktop\facultate\semestrul 2\oop\gabis\tema1_oop\main.cpp
+	<iostream>
+	"Utilizator.h"
+	<list>
+	"Librarie.h"
+
+1615640657 source:c:\users\user\desktop\facultate\semestrul 2\oop\gabis\tema1_oop\src\carte.cpp
+	"Carte.h"
+
+1615641280 c:\users\user\desktop\facultate\semestrul 2\oop\gabis\tema1_oop\include\carte.h
+	<string>
+
+1615640876 source:c:\users\user\desktop\facultate\semestrul 2\oop\gabis\tema1_oop\src\librarie.cpp
+	"Librarie.h"
+
+1615641151 c:\users\user\desktop\facultate\semestrul 2\oop\gabis\tema1_oop\include\librarie.h
+	"Carte.h"
+	<string>
+	<list>
+
